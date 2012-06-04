@@ -17,7 +17,7 @@ function init() {
     //var markers = new OpenLayers.Layer.Markers("Markers", {visibility: true});
     var markers = new OpenLayers.Layer.Markers("Markers");
 
-    var marker = new OpenLayers.Marker(
+    marker = new OpenLayers.Marker(
     /* defaultの座標は東京大学空間情報科学研究センター */
     new OpenLayers.LonLat(139.677493, 35.661127)
         .transform(
