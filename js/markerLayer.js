@@ -5,7 +5,7 @@
             map = new OpenLayers.Map('map');
             layer = new OpenLayers.Layer.WMS( "OpenLayers WMS", 
                 "http://vmap0.tiles.osgeo.org/wms/vmap0", {layers: 'basic'} );
-
+//このへんまでできると、表示サイズが変わる。理由は現在究明中
 //イマイチどれがどのマーカーか分からない。                
             map.addLayer(layer);
             map.setCenter(new OpenLayers.LonLat(0, 0), 0);
