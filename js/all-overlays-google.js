@@ -14,18 +14,19 @@ function init() {
     
     
     //add marker test
+    //var markers = new OpenLayers.Layer.Markers("Markers", {visibility: true});
     var markers = new OpenLayers.Layer.Markers("Markers");
-    /*　ここでマーカーレイヤーにaddMarker出来ない　理由は不明 */
-    marker.addLayer(markers);
+
     var marker = new OpenLayers.Marker(
-    new OpenLayers.LonLat(139.76, 35.68)
+    /* defaultの座標は東京大学空間情報科学研究センター */
+    new OpenLayers.LonLat(139.677493, 35.661127)
         .transform(
             new OpenLayers.Projection("EPSG:4326"), 
             new OpenLayers.Projection("EPSG:900913")
         )
     );
     markers.addMarker(marker);
-    */
+    
 //-- ここまで --
 
     
