@@ -26,7 +26,17 @@ function init() {
         )
     );
     markers.addMarker(marker);
-    
+
+    /*-------------2つめのマーカー------------------------*/
+    marker = new OpenLayers.Marker(
+        new OpenLayers.LonLat(139.677493, 40.661127)
+        .transform(
+            new OpenLayers.Projection("EPSG:4326"), 
+            new OpenLayers.Projection("EPSG:900913")
+        )
+    );
+    markers.addMarker(marker);
+    //-------------2つめのマーカー-------------------------*/
 //-- ここまで --
 
     
