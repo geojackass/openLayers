@@ -2,7 +2,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="author" content="Shoichi Otomo">
 	<head>
-	<title>OpenLayers in FOSS4G</title>
+	<title>LOD2013</title>
 	<style type="text/css">
 		#canvas {
 				width: 80%;
@@ -36,29 +36,29 @@
 
 			var gsat = new OpenLayers.Layer.Google(
 			"Google Satellite",
-			{type: google.maps.MapTypeId.SATELLITE, numZoomLevel: 15}
+			{type: google.maps.MapTypeId.SATELLITE, numZoomLevel: 10}
 			)
 			map.addLayer(gsat);
 
 			var ghyb = new OpenLayers.Layer.Google(
 			"Google Hybrid",
-			{type: google.maps.MapTypeId.HYBRID, numZoomLevels: 22, visibility: false}
+			{type: google.maps.MapTypeId.HYBRID, numZoomLevels: 10, visibility: false}
 			)
 			map.addLayer(ghyb);
 
-			//地図の中心に東京大学 柏の葉キャンパスを設定
-			var lonLat = new OpenLayers.LonLat(139.938975, 35.902652)
+			//地図の中心に仙台を設定
+			var lonLat = new OpenLayers.LonLat(140.8710628, 38.2324251)
 			.transform(
 			new OpenLayers.Projection("EPSG:4326"),
 			new OpenLayers.Projection("EPSG:900913")
 			);
-			map.setCenter(lonLat, 15);
+			map.setCenter(lonLat, 10);
 
-				//markerの描画 柏の葉駅にmarkerを描画する
+				//markerの描画 仙台にmarkerを描画する
 			var markers = new OpenLayers.Layer.Markers("Markers");
 			map.addLayer(markers);
 			var marker = new OpenLayers.Marker(
-			new OpenLayers.LonLat(139.952472, 35.893318)
+			new OpenLayers.LonLat(140.8710628, 38.2324251)
 			.transform(
 			new OpenLayers.Projection("EPSG:4326"),
 			new OpenLayers.Projection("EPSG:900913")
@@ -66,12 +66,19 @@
 			);
 			markers.addMarker(marker);
 
+			//.txt形式のデータ表示
+			var pois = new OpenLayers.Layer.Text("My Points", {
+			location : "data/pubmap.txt",
+			projection : map.displayProjection
+			});
+			map.addLayer(pois);
+
 				//kmlを読み込ませる
 				var route = new OpenLayers.Layer.Vector("KML", {
 						projection: map.displayProjection,
 						strategies: [new OpenLayers.Strategy.Fixed()],
 						protocol: new OpenLayers.Protocol.HTTP({
-								url: "geojackass.kml",
+								url: "data/MLIT_cam.kml",
 								format: new OpenLayers.Format.KML({
 										extractStyles: true,
 										extractAttributes: true
