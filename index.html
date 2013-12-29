@@ -54,7 +54,7 @@
 			);
 			map.setCenter(lonLat, 10);
 
-				//markerの描画 仙台にmarkerを描画する
+			//markerの描画 仙台にmarkerを描画する
 			var markers = new OpenLayers.Layer.Markers("Markers");
 			map.addLayer(markers);
 			var marker = new OpenLayers.Marker(
@@ -67,25 +67,37 @@
 			markers.addMarker(marker);
 
 			//.txt形式のデータ表示
-			var pois = new OpenLayers.Layer.Text("My Points", {
-			location : "data/pubmap.txt",
-			projection : map.displayProjection
-			});
-			map.addLayer(pois);
+			var txtLayer = new OpenLayers.Layer.Text("TXT", {
+				location : "data/txtdata/pubmap.txt",
+				projection : map.displayProjection
+				});
+				map.addLayer(txtLayer);
 
-				//kmlを読み込ませる
-				var route = new OpenLayers.Layer.Vector("KML", {
-						projection: map.displayProjection,
-						strategies: [new OpenLayers.Strategy.Fixed()],
-						protocol: new OpenLayers.Protocol.HTTP({
-								url: "data/MLIT_cam.kml",
-								format: new OpenLayers.Format.KML({
-										extractStyles: true,
-										extractAttributes: true
-										})
-								})
-						});
-				map.addLayer(route);
+			//.kml形式のデータ表示
+			var kmlLayer = new OpenLayers.Layer.Vector("KML", {
+				projection: map.displayProjection,
+				strategies: [new OpenLayers.Strategy.Fixed()],
+				protocol: new OpenLayers.Protocol.HTTP({
+				url: "data/kmldata/MLIT_cam.kml",
+				format: new OpenLayers.Format.KML({
+				extractStyles: true,
+				extractAttributes: true
+						})
+					})
+				});
+				map.addLayer(kmlLayer);
+
+			//.GeoJSON形式のデータ表示
+			var jsonLayer = new OpenLayers.Layer.Vector("GeoJSON", {
+				projection: map.displayProjection,
+				strategies: [new OpenLayers.Strategy.Fixed()],
+				protocol: new OpenLayers.Protocol.HTTP({
+				url: "data/jsondata/sample.json",
+				format: new OpenLayers.Format.GeoJSON()
+					})
+				});
+				map.addLayer(jsonLayer);
+
 				map.events.register("mousemove", map, onMouseMove);
 				map.events.register("zoomend", map, onZoomChanged);
 			}

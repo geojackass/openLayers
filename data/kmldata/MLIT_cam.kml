@@ -1,0 +1,1897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>MLIT_cam</name>
+  <description><![CDATA[live cam for ISAC2013]]></description>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style100">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style105">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style96">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style116">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style114">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style125">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style121">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style115">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style107">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style122">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style90">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style111">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style108">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style95">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style109">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style119">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style117">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style103">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style99">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style126">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style113">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style101">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style110">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style104">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style124">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style123">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style106">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style112">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style102">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style120">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style118">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/electronics.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>藤渡戸</name>
+    <description><![CDATA[<font face="arial" size="2"><a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74119.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74119.html</a></font><div dir="ltr" style="font-family:arial;font-size:10pt"></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>141.113403,38.870255,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>沢辺</name>
+    <description><![CDATA[<font face="arial" size="2"><a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74116.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74116.html</a></font>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>141.083679,38.835430,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>蟹沢</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74118.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74118.html</a>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>141.026001,38.758904,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>高清水</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74115.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74115.html</a>]]></description>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>141.010895,38.709625,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>沢田</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74166.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74166.html</a>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>140.978622,38.619553,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>牛飼</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74120.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74120.html</a>]]></description>
+    <styleUrl>#style100</styleUrl>
+    <Point>
+      <coordinates>141.091919,38.551926,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>坂本</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74114.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74114.html</a>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>140.937424,38.532055,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>音無</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74113.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74113.html</a>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>140.911331,38.515938,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>萱刈場</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74112.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74112.html</a>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>140.878372,38.484234,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>仙台河川鉄塔</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74165.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74165.html</a>]]></description>
+    <styleUrl>#style105</styleUrl>
+    <Point>
+      <coordinates>140.883514,38.227661,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>岩沼国道鉄塔</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74164.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74164.html</a>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>140.874603,38.118080,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>槻木高架橋(上)</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74109.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74109.html</a>]]></description>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>140.843704,38.088364,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>槻木高架橋(下)</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74108.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74108.html</a>]]></description>
+    <styleUrl>#style116</styleUrl>
+    <Point>
+      <coordinates>140.847137,38.084850,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>福岡蔵本</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74107.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74107.html</a>]]></description>
+    <styleUrl>#style114</styleUrl>
+    <Point>
+      <coordinates>140.619843,38.016724,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>御境</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74110.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74110.html</a>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>140.570419,37.900593,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>作田山</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74111.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74111.html</a>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>140.889008,37.953674,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>坂元</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74163.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74163.html</a>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>140.901718,37.922264,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>只越</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74104.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74104.html</a></div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>141.623383,38.950867,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>登米東和IC</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74171.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74171.html</a>]]></description>
+    <styleUrl>#style125</styleUrl>
+    <Point>
+      <coordinates>141.326401,38.708553,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>横山峠</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74105.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74105.html</a>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>141.404343,38.646103,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>津山</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74168.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74168.html</a>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>141.346664,38.629208,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>桃生津山IC</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74162.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74162.html</a>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>141.261871,38.594601,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>瀬見</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/yamagata/ycam/data/07072.html" target="_blank">http://www2.thr.mlit.go.jp/yamagata/ycam/data/07072.html</a>]]></description>
+    <styleUrl>#style121</styleUrl>
+    <Point>
+      <coordinates>140.401672,38.751003,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>西原</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74140.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74140.html</a>]]></description>
+    <styleUrl>#style115</styleUrl>
+    <Point>
+      <coordinates>140.588943,38.739624,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鳴子防災ｽﾃｰｼｮﾝ</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74169.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74169.html</a>]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>140.620544,38.734535,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>大深沢橋</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74139.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74139.html</a>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>140.642853,38.725964,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>大谷橋</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74138.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74138.html</a>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>140.696747,38.738819,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>東鳴子</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74137.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74137.html</a>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>140.745163,38.737747,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>上宮</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74136.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74136.html</a>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>140.798035,38.726501,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>下一栗</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74117.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74117.html</a>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>141.473694,39.374649,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>一般国道48号</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/yamagata/ycam/data/04068.html" target="_blank">http://www2.thr.mlit.go.jp/yamagata/ycam/data/04068.html</a>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>140.502777,38.408943,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>関山峠3</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74133.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74133.html</a>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>140.539169,38.393875,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>関山峠2</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74132.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74132.html</a>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>140.560455,38.392262,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>小網鳥沢</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74135.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74135.html</a>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>140.573502,38.385265,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鍋越橋</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74129.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74129.html</a>]]></description>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>140.579681,38.377193,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>御伊勢橋</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74130.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74130.html</a>]]></description>
+    <styleUrl>#style107</styleUrl>
+    <Point>
+      <coordinates>140.578995,38.369118,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鍋越橋</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74129.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74129.html</a>]]></description>
+    <styleUrl>#style122</styleUrl>
+    <Point>
+      <coordinates>140.589294,38.362656,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>桂沢観測所</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74128.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74128.html</a>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>140.594101,38.357273,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>作並除雪ST</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74127.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74127.html</a>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>140.597534,38.349197,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>深沢山</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74134.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74134.html</a>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>140.602341,38.348118,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>長原</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74126.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74126.html</a>]]></description>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>140.603714,38.343273,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>チェーン着脱所</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74125.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74125.html</a>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>140.616074,38.326035,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>熊ヶ根駅</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74123.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74123.html</a>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>140.668427,38.302872,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>ニッカ橋</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74124.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74124.html</a>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>140.638214,38.316071,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>愛子防災ｽﾃｰｼｮﾝ</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74170.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74170.html</a>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>140.765762,38.266220,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>八幡六丁目</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74122.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74122.html</a>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>140.811600,38.273361,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>聖橋</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74121.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74121.html</a>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>140.813828,38.266487,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>越ノ浦</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74101.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74101.html</a>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>141.021362,38.320381,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>松島海岸</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74102.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74102.html</a>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>141.049515,38.351215,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>松島左坂</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74103.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74103.html</a>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>141.078018,38.403427,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>上下堤1</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74106.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74106.html</a>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>141.131058,38.418629,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鳴瀬奥松島IC</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74160.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74160.html</a>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>141.144104,38.408138,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>小野</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74167.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74167.html</a>]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>141.163666,38.397644,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>石巻河南IC</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/sendai/html/dr-74161.html" target="_blank">http://www2.thr.mlit.go.jp/sendai/html/dr-74161.html</a>]]></description>
+    <styleUrl>#style111</styleUrl>
+    <Point>
+      <coordinates>141.300323,38.436916,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>国道4号  笹目子(一戸町)</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-sasameko.html" target="_blank">http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-sasameko.html</a>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>141.306152,40.210869,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>国道4号  小繋(一戸町)</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-kotunagi.html" target="_blank">http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-kotunagi.html</a>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>141.262543,40.125603,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>国道4号  奥中山(一戸町)</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-okunakayama.html" target="_blank">http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-okunakayama.html</a>]]></description>
+    <styleUrl>#style108</styleUrl>
+    <Point>
+      <coordinates>141.242645,40.086216,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>国道4号  吉谷地(岩手町)</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-yoshiyachi.html" target="_blank">http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-yoshiyachi.html</a>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>141.211060,39.964493,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>国道46号  道の駅雫石あねっこ</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-shizukuishi.html" target="_blank">http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-shizukuishi.html</a>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>140.977936,39.699791,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>国道46号  荒沢(雫石町)</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-arasawa.html" target="_blank">http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-arasawa.html</a>]]></description>
+    <styleUrl>#style109</styleUrl>
+    <Point>
+      <coordinates>140.923004,39.688168,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>国道46号  晩鳥(雫石町)</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-bandori.html" target="_blank">http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-bandori.html</a>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>140.838882,39.724751,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>仙岩トンネル</name>
+    <description><![CDATA[<a href="http://www.thr.mlit.go.jp/akita/douro/romen/r46c12.htm" target="_blank">http://www.thr.mlit.go.jp/akita/douro/romen/r46c12.htm</a>]]></description>
+    <styleUrl>#style119</styleUrl>
+    <Point>
+      <coordinates>140.818802,39.716827,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>田沢湖(仙岩)</name>
+    <description><![CDATA[<a href="http://www.thr.mlit.go.jp/akita/douro/romen/r46c7.htm" target="_blank">http://www.thr.mlit.go.jp/akita/douro/romen/r46c7.htm</a>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>140.730225,39.697147,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>田沢湖</name>
+    <description><![CDATA[<a href="http://www.thr.mlit.go.jp/akita/douro/romen/r46c1.htm" target="_blank">http://www.thr.mlit.go.jp/akita/douro/romen/r46c1.htm</a>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>140.715637,39.691998,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>横断道  赤部(東和町)</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-akabu.html" target="_blank">http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-akabu.html</a>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>141.218597,39.383671,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>横断道  白土(東和町)</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-shirotuti.html" target="_blank">http://www2.thr.mlit.go.jp/iwate/bousai/douro/l-shirotuti.html</a>]]></description>
+    <styleUrl>#style117</styleUrl>
+    <Point>
+      <coordinates>141.315933,39.292992,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>西川</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/501_3090r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/501_3090r112.html</a>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>140.166412,38.423805,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>水沢チェーン着脱場</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/502_4082r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/502_4082r112.html</a>]]></description>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>140.153625,38.301254,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>横岫</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/503_4240r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/503_4240r112.html</a>]]></description>
+    <styleUrl>#style103</styleUrl>
+    <Point>
+      <coordinates>140.062637,38.370464,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>本道寺</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/504_4363r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/504_4363r112.html</a>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>140.054916,38.451977,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>風吹</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/505_4419r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/505_4419r112.html</a>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>140.048553,38.454262,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>横手</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/506_4482r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/506_4482r112.html</a>]]></description>
+    <styleUrl>#style99</styleUrl>
+    <Point>
+      <coordinates>140.042038,38.458698,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>寒河江ダム</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/507_4653r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/507_4653r112.html</a>]]></description>
+    <styleUrl>#style98</styleUrl>
+    <Point>
+      <coordinates>140.029160,38.456413,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>砂子関</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/508_4776r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/508_4776r112.html</a>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>140.016968,38.457352,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>月山沢橋</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/509_4862r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/509_4862r112.html</a>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>140.007706,38.457623,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>月山沢ST</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/510_4916r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/510_4916r112.html</a>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>140.007019,38.451977,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>月山I.C</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/511_5043r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/511_5043r112.html</a>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>139.993805,38.454124,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name> 山蕗</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/512_5120r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/512_5120r112.html</a>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>139.991104,38.460880,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>向弓張</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/513_5272r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/513_5272r112.html</a>]]></description>
+    <styleUrl>#style126</styleUrl>
+    <Point>
+      <coordinates>139.994659,38.471870,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>山葵沼</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/514_5349r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/514_5349r112.html</a>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>139.994308,38.477379,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>葦谷地</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/515_5434r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/515_5434r112.html</a>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>139.989166,38.484501,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>頭光滝沢</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/516_5498r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/516_5498r112.html</a>]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>139.978516,38.492294,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>上楓沢</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/517_5605r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/517_5605r112.html</a>]]></description>
+    <styleUrl>#style113</styleUrl>
+    <Point>
+      <coordinates>139.971664,38.494713,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>道行沢</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/518_5670r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/518_5670r112.html</a>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>139.966171,38.500088,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>月山第一トンネル鶴岡側</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/18_6000r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/18_6000r112.html</a>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>139.961349,38.506535,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>八紘沢</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/19_6080r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/19_6080r112.html</a>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>139.955688,38.528027,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>湯殿山トンネル山形側</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/20_6150r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/20_6150r112.html</a>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>139.947281,38.531113,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>月山第2トンネル鶴岡側</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/25_6470r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/25_6470r112.html</a>]]></description>
+    <styleUrl>#style101</styleUrl>
+    <Point>
+      <coordinates>139.934402,38.536484,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>七つ滝</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/26_6560r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/26_6560r112.html</a>]]></description>
+    <styleUrl>#style110</styleUrl>
+    <Point>
+      <coordinates>139.922211,38.564140,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>十座沢橋</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/27_6620r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/27_6620r112.html</a>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>139.930969,38.555145,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>自動車専用道路入口</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/29_6670r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/29_6670r112.html</a>]]></description>
+    <styleUrl>#style104</styleUrl>
+    <Point>
+      <coordinates>139.937668,38.566959,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>湯殿山スキー場入口</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/30_6740r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/30_6740r112.html</a>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>139.916550,38.571117,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>田麦川橋</name>
+    <description><![CDATA[<a href="http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/31_6790r112.html" target="_blank">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/31_6790r112.html</a>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>139.940933,38.580379,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>中台除雪ステーション前</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/32_6880r112.html</div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>139.934921,38.579239,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>田麦俣登坂１</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/34_6940r112.html</div>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>139.931656,38.577560,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>田麦俣登坂２</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/35_6960r112.html</div>]]></description>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>139.929428,38.576351,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>田麦俣登坂３</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/36_7010r112.html</div>]]></description>
+    <styleUrl>#style124</styleUrl>
+    <Point>
+      <coordinates>139.927277,38.576019,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>湯殿山ＩＣ入口</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/37_7070r112.html</div>]]></description>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>139.923340,38.575211,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>田麦俣入口</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/38_7140r112.html</div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>139.919556,38.574207,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>展望広場前</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/40_7270r112.html</div>]]></description>
+    <styleUrl>#style123</styleUrl>
+    <Point>
+      <coordinates>139.910980,38.570786,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>朝日トンネル山形側</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/41_7310r112.html</div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>139.900497,38.579170,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name> 米の粉の滝ＤＩ前</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/45_7550r112.html</div>]]></description>
+    <styleUrl>#style106</styleUrl>
+    <Point>
+      <coordinates>139.896637,38.584873,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name> 鶴岡市外内島</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/49_9250r112.html</div>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>139.845566,38.652138,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鶴岡市道形</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/50_9670r112.html</div>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>139.845306,38.738152,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鶴岡市播磨橋</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/roadcam/real/67_14890r7.html</div>]]></description>
+    <styleUrl>#style112</styleUrl>
+    <Point>
+      <coordinates>139.832275,38.763321,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>吹浦</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/livecam/cctv065.html</div>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>139.869263,39.072712,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鳥海大橋</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/livecam/cctv064.html</div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>139.862137,39.023453,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>遊佐町菅里</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/livecam/cctv063.html</div>]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>139.846344,38.977558,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鶴岡市由良坂１</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/livecam/cctv048.html</div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>139.773560,38.809750,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鶴岡市由良坂２</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/livecam/cctv047.html</div>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>139.783859,38.731590,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鶴岡市由良坂３</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/livecam/cctv046.html</div>]]></description>
+    <styleUrl>#style102</styleUrl>
+    <Point>
+      <coordinates>139.768066,38.720341,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鶴岡市小波渡</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/livecam/cctv044.html</div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>139.672623,38.712841,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鶴岡市堅苔沢２</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/livecam/cctv052.html</div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>139.647903,38.695156,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>釜谷坂</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/livecam/cctv053.html</div>]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>139.635544,38.683903,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>大岩川</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/livecam/cctv071.html</div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>139.608765,38.661922,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>小岩川</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/livecam/cctv055.html</div>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>139.596405,38.644226,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>鼠ヶ関橋</name>
+    <description><![CDATA[<div dir="ltr">http://www2.thr.mlit.go.jp/Bumon/J76301/livecam/cctv056.html</div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>139.586105,38.625454,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>松浜</name>
+    <description><![CDATA[<div dir="ltr">http://www.hrr.mlit.go.jp/agano/cam/726106.html</div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>139.123993,37.947445,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>本所</name>
+    <description><![CDATA[<div dir="ltr">http://www.hrr.mlit.go.jp/agano/cam/726119.html</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>139.126740,37.907368,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>横越</name>
+    <description><![CDATA[<div dir="ltr">http://www.hrr.mlit.go.jp/agano/cam/726108.html</div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>139.139099,37.851002,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>満願寺</name>
+    <description><![CDATA[<div dir="ltr">http://www.hrr.mlit.go.jp/agano/cam/726227.html</div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>139.132233,37.820633,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>金屋</name>
+    <description><![CDATA[<div dir="ltr">http://www.hrr.mlit.go.jp/agano/cam/726204.html</div>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>139.144592,37.810867,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>善願</name>
+    <description><![CDATA[<div dir="ltr">http://www.hrr.mlit.go.jp/agano/cam/726205.html</div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>139.189911,37.769630,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name> 五泉市 馬下</name>
+    <description><![CDATA[<div dir="ltr">http://www.hrr.mlit.go.jp/agano/cam/726206.html</div>]]></description>
+    <styleUrl>#style120</styleUrl>
+    <Point>
+      <coordinates>139.264069,37.742485,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>馬取川</name>
+    <description><![CDATA[<div dir="ltr">http://www.hrr.mlit.go.jp/agano/cam/726305.html</div>]]></description>
+    <styleUrl>#style118</styleUrl>
+    <Point>
+      <coordinates>139.679230,37.694958,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>銚子口上流</name>
+    <description><![CDATA[<div dir="ltr">http://www.hrr.mlit.go.jp/agano/cam/726303.html</div>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>139.631760,37.644955,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
