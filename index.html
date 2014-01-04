@@ -16,8 +16,19 @@
 		</style>
 		<script src="http://www.openlayers.org/api/OpenLayers.js"></script>
 		<script src="http://maps.google.com/maps/api/js?v=3&amp;sensor=false"></script>
-		<script>
-		function init() {
+		<script type="text/javascript">
+
+<!--
+/*GLOBAL from here*/
+
+//真球メルカトル投影(電子国土WebシステムVer.4もこれに準拠)を定義
+var projection900913 = new OpenLayers.Projection("EPSG:900913");
+
+//等経緯度投影を定義
+var projection4326 = new OpenLayers.Projection("EPSG:4326");
+/*GLOBAL to here*/
+
+			function init() {
 			var map;
 			//optionsの指定はマウスイベントの取得時に必要になる
 			var options = {
@@ -27,9 +38,9 @@
 						]
 						};
 
-				map = new OpenLayers.Map("canvas", options);
-				//map = new OpenLayers.Map("canvas", {allOverlays: true});
-				map.addControl(new OpenLayers.Control.LayerSwitcher());
+			map = new OpenLayers.Map("canvas", options);
+			//map = new OpenLayers.Map("canvas", {allOverlays: true});
+			map.addControl(new OpenLayers.Control.LayerSwitcher());
 
 			var mapink = new OpenLayers.Layer.OSM();
 			map.addLayer(mapink);
@@ -68,7 +79,7 @@
 
 			//.txt形式のデータ表示
 			var txtLayer = new OpenLayers.Layer.Text("TXT", {
-				location : "pubmap.txt",
+				location : "data/txtdata/pubmap.txt",
 				projection : map.displayProjection
 				});
 				map.addLayer(txtLayer);
@@ -97,7 +108,58 @@
 					})
 				});
 				map.addLayer(jsonLayer);
+/*			
+			//.PNG形式のデータ表示
+			var imgLayer = new OpenLayers.Layer.Image("PNG",
+				'data/imagedata/sample.png',
+				new OpenLayers.Bounds(-170, -80, 170, 80),
+				new OpenLayers.Size(100, 100),
+				{isBaseLayer:false, opacity:0.2}
+				);
+				map.addLayer(imgLayer);
+*/
+/*
+			//ImageLayerの追加
+			var imageLayer = new OpenLayers.Layer.Image(
+				'Picture',
+				'http://portal.cyberjapan.jp/image_0/photo.png',
+				new OpenLayers.Bounds(140.083, 36.106, 140.088, 36.109)
+				.transform(projection4326,projection900913),
+				new OpenLayers.Size(160,120),
+				{
+					isBaseLayer: false,
+					projection: projection900913
+				}
+				);
+				map.addLayer(imageLayer);
+*/
 
+			//WMSからデータを取得し表示する
+			var dm_wms = new OpenLayers.Layer.WMS("Canadian Data",
+				"http://www2.dmsolutions.ca/cgi-bin/mswms_gmap",
+				{
+					layers: "bathymetry,land_fn,park,drain_fn,drainage," +
+							"prov_bound,fedlimit,rail,road,popplace",
+					transparent: "true",
+					format: "image/png"
+				},
+				{isBaseLayer: false}
+				);
+				map.addLayer(dm_wms);
+
+/*
+			var kibanwms = new OpenLayers.Layer.TMS(
+				"KIBAN 25000 TMS",
+				"http://www.finds.jp/ws/tmc/",
+				{
+					layername: "KBN25000ANF-4326",
+					type: "png",
+					attribution: '<a target=\"_blank\" href="http://www.finds.jp/wsdocs/kibanwms/index.html">基盤地図情報(平20業使、第449号)</a>',
+					isBaseLayer: false
+				}
+				);
+				map.addLayer(kibanwms);
+*/
 				map.events.register("mousemove", map, onMouseMove);
 				map.events.register("zoomend", map, onZoomChanged);
 			}
@@ -112,6 +174,7 @@
 			function onZoomChanged() {
 			document.getElementById("zoom").firstChild.nodeValue = this.getZoom();
 			}
+//-->
 			</script>
 	</head>
 	<body onload="init();">
